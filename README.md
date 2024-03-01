@@ -23,7 +23,7 @@ The image has been build for the following architecture : arm32, arm64 and amd64
 | ????? | arm64  |
 | Edge computer | amd64 |
 
-For example, to use it on CC100, PFC100/200, Edge Controller or Touch Panel 600 : use arm32 tag : 
+For example, to use it on CC100, use arm32 tag : 
 ```
 docker run quenorha/sysbench:arm32 sysbench cpu run
 ```
